@@ -5,7 +5,7 @@ class test4
         int side=3;
         int area=0;
         area=side*side;
-        System.out.println("Area is "+area);
+        System.out.println("Area of square is "+area);
     }
 
 }
